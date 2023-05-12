@@ -1,0 +1,47 @@
+body {
+    direction: rtl;
+}
+.far3y {
+    color: rgb(15,66,115);
+}
+.pyramids {
+    color: rgb(143,0,0);
+    text-align: center;
+}
+footer{
+    background-color:  darkslategray;
+    margin 0;
+    padding: 15px;
+    padding-right: 50px;
+}
+
+footer p{
+    margin: 0;
+    color: #fff;
+}
+.page2t {
+    color: rgb(143,0,0);
+    margin-bottom: 35px;
+}
+.study{
+    padding-right: 30px;
+    color: rgb(143,0,0);
+}
+.pad{
+    padding: 30px;
+    text-align: justify;
+}
+.paddd{
+    padding-right: 150px;
+}
+.cl{
+  background-color:  rgb(245,245,245);
+}
+.pp {
+    background-color: rgb(245,245,245);
+    text-align: justify;
+}
+.ph {
+    margin: 30px;
+    padding-left: 100px;
+}
